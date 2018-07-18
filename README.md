@@ -1,10 +1,3 @@
-<script src="https://merret.github.io/WaitForYou/WaitForYou.js"></script>
-<script>
-    var img = '
-<img hidden style="z-index: 9999; position: fixed; text-align: center; box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12); background-color: #fff!important;" id="WFYloadingIcon" src="https://merret.github.io/WaitForYou/svg/loadingRingF.svg" width="(optional)" height="(optional)"></img>';
-
-document.head.innerHTML += img;
-</script>
 # WaitForYou
 ### a page loading.. service .
 ### Usage
