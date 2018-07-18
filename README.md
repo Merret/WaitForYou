@@ -3,7 +3,7 @@
 ### Usage
 Copy bellow code and paste them between `<head>` and `</head>` in your website.
 
-    <script src="https://merret.github.io/WaitForYou/WaitForYou.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/Merret/WaitForYou@bcff0de943cf9f2e6716fbdcad961b018c24a2af/WaitForYou.m.js"></script>
 
 And then copy bellow code and paste on the top of `<body>` part in your website.
 
